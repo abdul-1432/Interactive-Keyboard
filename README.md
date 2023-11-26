@@ -29,8 +29,8 @@ This interactive keyboard is a fun and functional project built using HTML, CSS,
 
 Feel free to customize the keyboard to suit your preferences. Here are some ways you can do it:
 
-- **Modify Styles with SCSS:**
-  Explore the `styles.scss` file to tweak colors, fonts, and other visual aspects.
+- **Modify Styles with CSS:**
+  Explore the `styles.css` file to tweak colors, fonts, and other visual aspects.
 
 - **Extend Functionality with JavaScript:**
   Add new features or modify existing ones by exploring the `script.js` file.
