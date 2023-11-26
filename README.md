@@ -16,7 +16,7 @@ This interactive keyboard is a fun and functional project built using HTML, CSS,
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/interactive-keyboard.git
+   git clone https://github.com/abdul-1432/Interactive-Keyboard
    ```
 
 2. **Open `index.html`:**
